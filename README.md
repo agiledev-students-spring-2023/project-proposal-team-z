@@ -4,8 +4,6 @@ NYUThrift
 
 ### What and why?
 
-What software system would you like to build this semester, and why? Include a description of what problem the system would solve and why this is important.
-
 A online-commerce platform for NYU students to sell used items like textbooks, furniture, and clothes. Selling and buying used goods online can involve extra shipping fees as well as a possbility of being scammed. Our app will allow users to sell their products to a more trusted user-base (NYU students). 
 
 ### For whom?
